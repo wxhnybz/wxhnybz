@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @wxhnybz//我喜欢你
+- 👋 Hi, I’m @wxhnybz
 - 👀 I’m interested in who being interested in me.
 - 🌱 I’m currently learning algorithm and machine learning.
 - 💞️ I’m looking to collaborate on those excellent ones.
